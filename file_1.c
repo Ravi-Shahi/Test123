@@ -21,3 +21,8 @@ int func_add(int a, int b)
 	return a+b;
 }
 // added some more function
+int func_sub(int a, int b)
+{
+	return a-b;
+}
+
