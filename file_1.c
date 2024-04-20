@@ -20,3 +20,9 @@ int func_add(int a, int b)
 	// one more change 
 	return a+b;
 }
+
+int func_sub(int a, int b)
+{
+	return a-b;
+}
+
